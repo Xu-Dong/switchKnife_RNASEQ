@@ -1,6 +1,6 @@
 # switchKnife_RNASEQ
 
-*mappingStat.py
+1. mappingStat.py
 Extracting basic statistics from STAR alignment of RNA-seq data.
 
 usage: mappingStat.py [-h] --dir DIR [--out OUT]
